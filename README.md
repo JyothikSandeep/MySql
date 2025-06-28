@@ -13,3 +13,12 @@ To install my sql we need to login to oracle account.
 2. create account.
 
 3. Install My sql.
+
+
+After installation:
+
+type for MySql bench in search bar connect to the local database connection.
+
+Ready to code!!
+
+
