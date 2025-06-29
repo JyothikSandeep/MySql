@@ -21,4 +21,8 @@ type for MySql bench in search bar connect to the local database connection.
 
 Ready to code!!
 
+# Database
 
+A database is an organized collection of data stored electronically. It allows users and applications to easily access, update, and manipulate information. This data contains text, numbers, images, videos and more. Databases are managed using specialized software known as a Database Management System (DBMS), which facilitates the storage, retrieval, and manipulation of data.
+
+Databases are fundamental to modern computing, supporting various appl
