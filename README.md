@@ -38,4 +38,27 @@ A database is an organized collection of data stored electronically. It allows u
 create database sql_class
 ```
 
+# Datatypes
+1.chr()
+2.varChr()
+3.float()
+4.Double()
+5.int()
+6.BigInt()
+7.Date()
+8.DateTime()
 
+# create a table in SQL:
+
+```sql
+CreaTe table Test(ID int(5),name char(5),height float(5,4));
+
+
+
+```
+
+# To show commands in a database
+
+```sql
+show tables;
+```
