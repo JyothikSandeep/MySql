@@ -62,3 +62,14 @@ CreaTe table Test(ID int(5),name char(5),height float(5,4));
 ```sql
 show tables;
 ```
+# insert data in table:
+
+```sql
+Insert into test(ID,name) values(1,'sandy');
+```
+
+# display all data in table
+
+```sql
+select * from test;
+```
