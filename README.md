@@ -73,3 +73,16 @@ Insert into test(ID,name) values(1,'sandy');
 ```sql
 select * from test;
 ```
+
+
+# Where Cluase
+
+| Operator     | Description      | Example          |
+| ------------ | ---------------- | ---------------- |
+| `=`          | Equal to         | `salary = 50000` |
+| `!=` or `<>` | Not equal to     | `name != 'John'` |
+| `>`          | Greater than     | `age > 30`       |
+| `<`          | Less than        | `stock < 100`    |
+| `>=`         | Greater or equal | `score >= 60`    |
+| `<=`         | Less or equal    | `rating <= 4.5`  |
+
